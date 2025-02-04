@@ -28,4 +28,4 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+![image](https://github.com/user-attachments/assets/25f3c5eb-109a-4626-b423-b873aba44b11)
